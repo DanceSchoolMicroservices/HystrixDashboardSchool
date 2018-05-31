@@ -3,8 +3,8 @@ spring:
     stream:
       kafka:
         binder:
-          brokers: localhost
-          zkNodes: localhost
+          brokers: localhost111
+          zkNodes: localhost111
 
 eureka:
   client:
