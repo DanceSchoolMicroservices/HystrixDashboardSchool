@@ -1,11 +1,3 @@
-spring:
-  cloud:
-    stream:
-      kafka:
-        binder:
-          brokers: localhost
-          zkNodes: localhost
-
 eureka:
   client:
     serviceUrl:
