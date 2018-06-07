@@ -1,6 +1,10 @@
 server:
   port: 8763
   
+turbine: 
+  stream:
+    port: 8989
+  
 eureka:
   instance:
     preferIpAddress: true
